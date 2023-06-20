@@ -1,2 +1,2 @@
-fastbook
-voila
+fastai==2.7.12
+voila==0.4.0
