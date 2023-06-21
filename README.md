@@ -1,6 +1,8 @@
 # Bear Classifier from the Fast AI book
 
-My variation of the bear classifier implementation from Chapter 2 of "Deep Learning for Coders with Fastai and PyTorch". [View live demo on binder](https://mybinder.org/v2/gh/rigdern/fast-ai-bear-classifier/main?labpath=voila%2Frender%2Fpredictor%2Fbear_classifier_predictor.ipynb)
+My variation of the bear classifier implementation from Chapter 2 of "Deep Learning for Coders with Fastai and PyTorch". Given an image, classifies it as a grizzly bear, a black bear, or a teddy bear.
+
+[View live demo on binder](https://mybinder.org/v2/gh/rigdern/fast-ai-bear-classifier/main?urlpath=voila%2Frender%2Fpredictor%2Fbear_classifier_predictor.ipynb).
 
 ## Links
 - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard & Sylvain Gugger (2020)](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
